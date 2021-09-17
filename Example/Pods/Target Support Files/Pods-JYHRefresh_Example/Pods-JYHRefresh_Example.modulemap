@@ -1,0 +1,6 @@
+framework module Pods_JYHRefresh_Example {
+  umbrella header "Pods-JYHRefresh_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
